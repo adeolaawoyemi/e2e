@@ -1,0 +1,27 @@
+{
+  "name": "lowlander-tests",
+  "version": "1.0.0",
+  "description": "Tests for Lowlander using Nightwatch and Cucumber",
+  "main": "",
+  "scripts": {
+    "test": "nightwatch -e chrome,firefox",
+    "test-chrome": "nightwatch -e chrome",
+    "test-firefox": "nightwatch -e firefox",
+    "test-phantomjs": "nightwatch -e default"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-nightwatch": "^0.1.1",
+    "chromedriver": "^2.33.2",
+    "cucumber": "^2.0.0-rc.7",
+    "cucumber-html-reporter": "^0.3.7",
+    "find-remove": "^1.0.0",
+    "geckodriver": "^1.4.0",
+    "nightwatch": "^0.9.12",
+    "nightwatch-cucumber": "^7.0.10",
+    "phantomjs-prebuilt": "^2.1.14",
+    "selenium-server": "^3.1.0"
+  }
+}

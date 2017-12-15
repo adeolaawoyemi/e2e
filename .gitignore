@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log*
+.idea/workspace.xml
+.happypack
+.DS_Store
+.vscode
+reports
+screenshots
+selenium-debug.log
