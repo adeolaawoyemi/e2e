@@ -1,4 +1,4 @@
-# E2E Tests for Lowlander
+# E2E Tests using Nightwatch-Cucumber
 
 This uses [nightwatch-cucumber](https://github.com/mucsi96/nightwatch-cucumber). You should also 
 familiarize yourself with the [nigtwatch API](http://nightwatchjs.org/api) and [guide](http://nightwatchjs.org/guide).
